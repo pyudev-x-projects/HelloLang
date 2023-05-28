@@ -1,0 +1,7 @@
+.DS_Store
+src/.DS_Store
+bin/.DS_Store
+.vscode/.DS_Store
+# test.txt
+
+# No more DS_Stores!
