@@ -1,6 +1,6 @@
 # HelloLang
 
-A stupid programming language thats not actually a language its just a program that reads numbers from files and runs code if it is a specific token.
+A stupid programming language thats not actually a language its just a program that reads tokens from files and runs code if it is a specific token.
 
 This is also extremely slow because its in Java
 
